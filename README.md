@@ -1,7 +1,7 @@
 # Lokesh Dange
 ## Product Manager | AI & LLM Enthusiast | Vibe Coder
 
-👋 Hello! I'm Lokesh, a Product Manager with 6 years of experience and a passion for AI & LLM Applications. Always curious and eager to learn, I love exploring the intersection of product strategy and cutting-edge technologies.
+Hello! I'm Lokesh, a PM with 6 years of experience and a passion for AI & LLM applications. I thrive on crafting user-centric solutions at the intersection of product strategy and cutting-edge AI technologies, always eager to push the boundaries of innovation.
 
 ## 🚀 Professional Experience
 
