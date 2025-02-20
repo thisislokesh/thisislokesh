@@ -13,12 +13,7 @@
 ![Product Management](https://img.shields.io/badge/-Product%20Management-FF4F8B?style=flat-square)
 ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-4285F4?style=flat-square)
 ![UX Design](https://img.shields.io/badge/-UX%20Design-FF6B6B?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Software Development](https://img.shields.io/badge/-Software%20Development-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 🛠️ Tech Stack
 
