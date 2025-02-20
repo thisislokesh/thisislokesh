@@ -17,12 +17,11 @@ Hello! I'm Lokesh, a PM with 6 years of experience and a passion for AI & LLM ap
 
 ## 🛠️ Tech Stack
 
-- Full Stack Product Management
-- Data Analytics
-- UX Design
-- Full Stack Development (AI & LLM Apps)
-- Open Source Models API Integration
-- Cursor, Firebase/Supabase, Vercel, Python, R, SQL
+- Python/R Programming
+- NextJS, Typescript, Tailwind CSS, ShadCN UI
+- UX Design (Figma, Vercel's V0.dev)
+- Cursor.ai for Full Stack Development (AI & LLM Apps)
+- Cursor, V0.dev, Firebase/Supabase, Vercel, Python, R, SQL
 
 ## 🏆 Featured Project
 
