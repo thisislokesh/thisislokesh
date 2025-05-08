@@ -5,6 +5,7 @@ Hello! I'm Lokesh, a PM with 6 years of experience and a passion for AI & LLM ap
 
 ## 🚀 Professional Experience
 
+- **Sourcy.ai**: Building an agentic sourcing platform
 - **Moglix**: Contributed to scaling the fintech arm of India’s largest B2B marketplace from $0 to $50M AUM via AI-powered credit models and collateral-free SME lending solutions.
 - **Indiamart**: Deployed a large-scale SVM Lead Saleability Model from scratch
 
